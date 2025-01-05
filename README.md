@@ -50,7 +50,7 @@ Follow these instructions to compile and run the calculator on your system.
 1. Open a terminal or command prompt.
 2. Clone the repository using Git:
    ```bash
-   git clone https://github.com/yourusername/BoredCalculator.git
+   git clone https://github.com/BoredTurkishGuy/BoredCalculator.git
    cd BoredCalculator
    ```
 
