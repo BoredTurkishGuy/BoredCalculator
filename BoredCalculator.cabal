@@ -1,0 +1,13 @@
+cabal-version:       >=1.10
+name:                BoredCalculator
+version:             0.1.0.0
+build-type:          Simple
+
+executable BoredCalculator
+  main-is:             BoredCalculator.hs
+  build-depends:       base >=4.12 && <5,
+                       ansi-terminal >=1.0,
+                       parsec >=3.1,
+                       containers >=0.6,
+                       mtl >=2.2
+  default-language:    Haskell2010
