@@ -10,6 +10,11 @@ I do not know how many problems this code can cause on your system, especially i
 
 ---
 
+## Known Issues:
+- The calculator giving incorrect outputs to things like factorial           -          Will be fixed next release
+- Calculator not reading () after mathematical function                      -          Will be fixed next release
+
+---
 ## Features
 
 - **Basic Arithmetic**: Supports `+`, `-`, `*`, `/`, `%`, `//`, `^` operators.
